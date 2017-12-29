@@ -1,0 +1,12 @@
+{
+  "name": "hello-cli",
+  "version": "0.0.1",
+  "description": "A project named hello-cli",
+  "main": "index.js",
+  "repository": "https://github.com/zagss/lv-templates.git",
+  "author": "zagss",
+  "license": "MIT",
+  "dependencies": {
+    "mint-ui": "2.2.13"
+  }
+}
